@@ -1,4 +1,4 @@
-## Kiosk Project
+# Kiosk Project
 
 ### 클래스 정의
 
