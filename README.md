@@ -22,7 +22,6 @@
     - [ ]  입력 처리와 간단한 흐름 제어를 복습합니다. (프로그래밍 검증**)**
     - [ ]  `Scanner` 활용법, 조건문, 반복문을 재확인하며 입력 데이터를 처리하는 방법 강화
 
----
 
 - [ ]  **햄버거 메뉴 출력 및 선택하기**
     - [ ]  `Scanner`를 사용하여 여러 햄버거 메뉴를 출력합니다.
@@ -31,6 +30,7 @@
 - [ ]  **Lv1을 구현하면 터미널에 이렇게 보여집니다.**
 - [ ]  ![image](https://github.com/user-attachments/assets/00eb2772-1f7e-4665-88cd-16ef9866a044)
 
+---------
 
 ### Lv 2. 객체 지향 설계를 적용해 햄버거 메뉴를 클래스로 관리하기
 
@@ -50,3 +50,5 @@
         - [ ]  `List<MenuItem> menuItems = new ArrayList<>();`
     - [ ]  반복문을 활용해 `menuItems`를 탐색하면서 하나씩 접근합니다.
 - [ ]  구조 예시
+- [ ]  ![image](https://github.com/user-attachments/assets/0ffcf83d-bd8f-4dfb-8f39-edde2e6fe048)
+
